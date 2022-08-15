@@ -1,7 +1,7 @@
 selector{
     position: relative;
     width: ;
-    height: 10px;
+    height: ;
     background: #fff;
     -webkit-box-reflect: below 1px liner-greadient(transparent, #0005);
 }
